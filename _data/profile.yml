@@ -2,11 +2,9 @@ primary_name: "Jian Lang"
 secondary_name: ""
 navbar_name: "Jian Lang"
 
-# positions:
-# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-#   name: Position 1 with logo
-# - name: Position 2 without logo
-
+positions:
+- logo: /assets/images/badges/uestc.png  # Logo is optional
+  name: Postgraduate Student
 
 email: "jian_lang@std.uestc.edu.cn"
 # cv_link: link-to-your-cv-file
