@@ -45,17 +45,17 @@ education:
     Master Student
   date: Sep. 2023 - present
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Ruijie Networks
+  logo: /assets/images/badges/ruijie.png
+  position: Software Development Intern
+  date: Mar. 2022 - Jul. 2022
 
 awards:
 - name: National Scholarship
   date: 2024
-- name: First-class Academic Scholarship of UESTC
+- name: Master's Student Academic Scholarship (1st Division)
   date: 2024
-- name: Artificial Intelligence Algorithm Challenge Runner-up(2nd), hosted by People's Daily Online
+- name: Artificial Intelligence Algorithm Challenge Runner-up (2nd), hosted by People's Daily Online
   date: 2023
 
