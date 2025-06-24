@@ -23,12 +23,14 @@ short_bio: >-
   <p>
     I am Jian Lang, currently a master candidate in Software Engineering at the University of Electronic Science and Technology of China (UESTC), 
     under the supervision of Prof <a href="https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ" target="_blank">Fan Zhou</a>. 
-    I received my Bachelor of Engineering degree from Fuzhou University. 
+    Before that, I received my Bachelor of Engineering degree from Fuzhou University. 
   </p>
-    <p>
-    My research interests focus on multimodal learning, specifically addressing learning problems under missing or incomplete data modalities. 
-    I also conduct in-depth analysis in multimodal social media data. Recently, my research extends into multimodal large language models (MLLMs) and open-domain question-answering.
-    I have published several academic papers in top conferences (KDD,WWW,AAAI,SIGIR) in related fields.  
+  <p>
+  My research interests video content analysis (popularity prediction, malicious content detection), and robust multimodal learning (incomplete multimodal learning, domain adaption). 
+  In addition, I also explores applying Multimodal Large Language Models to part of these domains to enhance their performance and interpretability.
+  </p>
+  <p>
+    I am now looking for 26 fall PhD positions. Feel free to contact me if you have any questions about my research or potential collaboration opportunities.
     </p>
 
 portrait_url: /assets/images/photos/jian_lang.jpg
